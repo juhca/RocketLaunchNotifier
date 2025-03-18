@@ -1,0 +1,25 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ACallSiteFactory_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Ff7e838f3c047ee76488fa4c2b9b1bffb2b33b04a2780de4664de937e024e97_003FCallSiteFactory_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ACallSiteValidator_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Faed62540474f402b1193bf8f32ff86aec484ca5cd43459c65c3fbbe73e73b5_003FCallSiteValidator_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003APeriodicTimer_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F6218e99a21d6c4fab8b6313176b59d476b17ffc69867b9e6b2605659275a21_003FPeriodicTimer_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AServiceProvider_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F658ad1fa108317d78bcae889b6e4f9dd5327babb6582972f2dbeabf36dafa5_003FServiceProvider_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003AServiceProvider_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003F7d81b2d4f22bee75e5438c707251ae43cb0974c207db91ffc159118c84b4eb9_003FServiceProvider_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/CodeInspection/ExcludedFiles/FilesAndFoldersToSkip2/=7020124F_002D9FFC_002D4AC3_002D8F3D_002DAAB8E0240759_002Ff_003ATestInvoker_002Ecs_002Fl_003A_002E_002E_003F_002E_002E_003FAppData_003FRoaming_003FJetBrains_003FRider2024_002E3_003Fresharper_002Dhost_003FSourcesCache_003Fc3ec25c53b94f51fa21da479c513e551efee2b5ae49a79934686d2bb714d46_003FTestInvoker_002Ecs/@EntryIndexedValue">ForceIncluded</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9f018900_002D24e8_002D4bdc_002D8adb_002D2709669ea04b/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;Or&gt;&#xD;
+    &lt;And&gt;&#xD;
+      &lt;TestAncestor&gt;&#xD;
+        &lt;TestId&gt;xUnit::E56D9B51-EC92-4920-BF2E-7FE4DBD0E90F::net8.0::ApiTests.EmailControllerTests&lt;/TestId&gt;&#xD;
+      &lt;/TestAncestor&gt;&#xD;
+      &lt;Category&gt;ApiTests&lt;/Category&gt;&#xD;
+    &lt;/And&gt;&#xD;
+    &lt;TestAncestor&gt;&#xD;
+      &lt;TestId&gt;xUnit::E56D9B51-EC92-4920-BF2E-7FE4DBD0E90F::net8.0::ApiTests.RocketLaunchApiTests.GetAllRocketLaunches_ShouldReturnListOfRocketLaunches&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::E56D9B51-EC92-4920-BF2E-7FE4DBD0E90F::net8.0::ApiTests.RocketLaunchApiTests.GetSavedRocketLaunches_ShouldReturnListOfSavedRocketLaunches&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::E56D9B51-EC92-4920-BF2E-7FE4DBD0E90F::net8.0::ApiTests.RocketLaunchApiTests.GetUpcomingRocketLaunches_ShouldReturnListOfUpcomingRocketLaunches&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::0D95960E-BB31-425B-A117-92A4CE302E17::net8.0::UnitTests.RocketLaunchesTests.GetSavedLaunches_ShouldReturnListOfLaunches&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::0D95960E-BB31-425B-A117-92A4CE302E17::net8.0::UnitTests.RocketLaunchesTests.GetUpcomingLaunchess_ShouldReturnListOfLaunches&lt;/TestId&gt;&#xD;
+      &lt;TestId&gt;xUnit::0D95960E-BB31-425B-A117-92A4CE302E17::net8.0::UnitTests.RocketLaunchesTests&lt;/TestId&gt;&#xD;
+    &lt;/TestAncestor&gt;&#xD;
+  &lt;/Or&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

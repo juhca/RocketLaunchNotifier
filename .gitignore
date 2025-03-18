@@ -1,0 +1,10 @@
+RocketLauncherNotifier/bin
+RocketLauncherNotifier/obj
+ApiTests/bin
+ApiTests/obj
+UnitTests/bin
+UnitTests/obj
+Infrastructure/obj
+Infrastructure/bin
+Domain/obj
+Domain/bin
